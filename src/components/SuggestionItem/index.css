@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.li {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  margin-left: -20px;
+}
+
+.suggestion {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  color: #475569;
+}
+
+.arrow-log {
+  height: 20px;
+  width: 20px;
+  margin-right: 20px;
+}
+
+.button {
+  background-color: transparent;
+  border-width: 0px;
+}
